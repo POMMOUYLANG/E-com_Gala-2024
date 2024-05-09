@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&display=swap');
+.customer_page{
+    /* background-color: yellow; */
+    height: 100vh;
+    padding: 20px;
+    font-family: "Kantumruy Pro", sans-serif;
+}
+table{
+    width: 100%;
+}
+thead{
+    font-size: 30px;
+}
+tbody{
+    font-size: 23px;
+}
+.td-left{
+    text-align: left;
+    padding: 4px;
+}
